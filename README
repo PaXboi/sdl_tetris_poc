@@ -1,1 +1,5 @@
+Proof of concept SDL tetris game.
+Licenced under GNU AGPL v3 or, at your option, any later version.
+
 This software uses SimpleDirectmediaLayer (SDL) 2.0.12.
+SDL is under its respective licence.
